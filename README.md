@@ -24,14 +24,14 @@ Email: **david.anderson1993@gmail.com**
 Cell: (320)-262-0320
 
 <a href="https://twitter.com/david_zealot">
-<img border="0" alt="Twitter Logo" src="assets/LOGOS/twitter logo.png" width="100" height="100">
+<img border="0" alt="Twitter Logo" src="img/logos/twitter.png" width="100" height="100">
 </a>
 
 <a href="https://www.instagram.com/davidanderson76/">
-<img border="0" alt="Instagram logo" src="assets/LOGOS/instagram logo.png" width="" height="100">
+<img border="0" alt="Instagram logo" src="img/logos/insta.png" width="" height="100">
 </a>
 
 <a href="https://www.facebook.com/david.w.anderson.16">
-<img border="0" alt="Facebook logo" src="assets/LOGOS/facebook logo.png" width="" height="100">
+<img border="0" alt="Facebook logo" src="img/logos/fb.png" width="" height="100">
 </a>
 
