@@ -14,7 +14,7 @@ h6 {
   color: #c5c5c5;
 }
 .subtitle-a{
-  color: #f2f2f2;
+  color: #8c8787;
   font-size: large;
 }
 a {
@@ -152,7 +152,7 @@ a:hover {
 }
 
 .subtitle-a {
-  color: #4e4e4e;
+  color: #878282;
 }
 
 .line-mf {
@@ -670,7 +670,7 @@ a:hover {
 
 .quickLinks {
   font-size: large;
-  color: #fff;
+  color: rgb(207, 199, 199);
 }
 
 .fa {
@@ -723,10 +723,11 @@ a:hover {
 ======================================*/
 
 .service-box {
-  background-color: #fff;
+  background-color: rgb(99, 93, 93);
   padding: 2.5rem 1.3rem;
   border-radius: 1rem;
   margin-bottom: 3rem;
+  
 }
 
 .service-box:hover .ico-circle {
@@ -754,7 +755,12 @@ a:hover {
 }
 
 .service-box .s-description {
-  color: #4e4e4e;
+  color: #fff;
+  font-size: medium;
+}
+
+.s-title {
+  color: rgb(225, 222, 222);
 }
 
 /*======================================
@@ -790,7 +796,7 @@ a:hover {
   margin-bottom: 3rem;
   -webkit-backface-visibility: hidden;
   backface-visibility: hidden;
-  background-color: #fff;
+  background-color: rgb(99, 93, 93);
   border-radius: 25px;
 }
 
@@ -804,14 +810,19 @@ a:hover {
   display: block;
   overflow: hidden;
   border-radius: 25px;
+  background-color: rgb(99, 93, 93);
 }
 
 .work-img img {
   transition: all 1s;
 }
 
+
+
 .work-content {
   padding: 2rem 3% 1rem 4%;
+  border-radius: 25px;
+  background-color: rgb(99, 93, 93);
 }
 
 .work-content .w-more {
@@ -820,12 +831,12 @@ a:hover {
 }
 
 .work-content .w-more .w-ctegory {
-  color: #282827;
+  color: #fff;
 }
 
 .work-content .w-like {
   font-size: 2.5rem;
-  color: #a06c99;
+  color: #ffc266;
   float: right;
 }
 
@@ -835,11 +846,17 @@ a:hover {
 
 .work-content .w-like .num-like {
   font-size: .7rem;
+  
 }
 
 .w-title {
   font-size: 1.2rem;
+  color: #fff;
 }
+
+.w-date {
+  color: #fff !important;
+} 
 
 /*======================================
 //--//-->   TESTIMONIALS
@@ -917,7 +934,7 @@ a:hover {
 footer {
   text-align: center;
   color: #ffc266;
-  padding-bottom: 4rem;
+  padding-bottom: 2rem;
 }
 
 footer .copyright {
@@ -1181,7 +1198,8 @@ padding-top: 20px;
 }
 .playlist-info-track,.playlist-duration{
   padding-top: 4px;
-  padding-bottom: 7px;
+  padding-bottom: 12px;
+  
   color: #e9cc95;
   font-size: 14px;
   pointer-events: none;
@@ -1207,7 +1225,7 @@ padding-top: 20px;
 }
 .fas{
   color: #ffc266;
-  font-size: 20px;
+  font-size: small;
 }
 
 .player-title {
