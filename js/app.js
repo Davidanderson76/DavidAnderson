@@ -45,11 +45,6 @@ var listAudio = [
     duration: "1:56",
   },
   {
-    name: " runaway ",
-    file: "music/runaway.wav",
-    duration: "2:38",
-  },
-  {
     name: " sorry ",
     file: "music/sorry.wav",
     duration: "2:39",
@@ -78,7 +73,7 @@ var listAudio = [
     name: " Schmuggly ",
     file: "music/schmuggly.wav",
     duration: "1:37",
-  }
+  },
 ];
 
 for (var i = 0; i < listAudio.length; i++) {
