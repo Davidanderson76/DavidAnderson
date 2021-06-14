@@ -35,7 +35,7 @@ var listAudio = [
     duration: "2:18",
   },
   {
-    name: " Round n' Round ",
+    name: " Round N' Round ",
     file: "music/round N' round.wav",
     duration: "3:07",
   },
@@ -45,12 +45,12 @@ var listAudio = [
     duration: "1:56",
   },
   {
-    name: " sorry ",
+    name: " Sorry ",
     file: "music/sorry.wav",
     duration: "2:39",
   },
   {
-    name: " ugly ",
+    name: " Ugly ",
     file: "music/ugly.wav",
     duration: "2:48",
   },
@@ -70,7 +70,7 @@ var listAudio = [
     duration: "2:34",
   },
   {
-    name: " Schmuggly ",
+    name: " Smug ",
     file: "music/schmuggly.wav",
     duration: "1:37",
   },
